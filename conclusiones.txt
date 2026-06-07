@@ -1,0 +1,14 @@
+
+CONCLUSIONES
+
+1. Se ejecutó una prueba de carga sobre un servicio de autenticación (login API) utilizando la herramienta K6, con el objetivo de evaluar el comportamiento del sistema bajo un escenario de concurrencia de hasta 20 usuarios virtuales.
+
+2. Durante la ejecución se validaron métricas de rendimiento como tiempo de respuesta, tasa de error y estabilidad del servicio.
+
+3. Los resultados obtenidos muestran que el sistema mantiene un rendimiento estable bajo la carga definida, cumpliendo con los criterios establecidos en la prueba.
+
+4. El tiempo de respuesta del percentil 95 se mantuvo por debajo de 1.5 segundos, lo que indica un comportamiento adecuado del servicio en términos de latencia bajo carga.
+
+5. La tasa de error se mantuvo dentro del límite permitido (<3%), evidenciando que el sistema responde de forma consistente durante la ejecución de la prueba.
+
+6. En conclusión, el sistema de autenticación evaluado cumple con los criterios de rendimiento establecidos para esta prueba de carga.
