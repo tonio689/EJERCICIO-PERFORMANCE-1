@@ -7,7 +7,7 @@ CONCLUSIONES
 
 3. Los resultados obtenidos muestran que el sistema mantiene un rendimiento estable bajo la carga definida, cumpliendo con los criterios establecidos en la prueba.
 
-4. El tiempo de respuesta del percentil 95 se mantuvo por debajo de 1.5 segundos, lo que indica un comportamiento adecuado del servicio en términos de latencia bajo carga.
+4. El tiempo de respuesta del percentaje 95 se mantuvo por debajo de 1.5 segundos, lo que indica un comportamiento adecuado del servicio en términos de latencia bajo carga.
 
 5. La tasa de error se mantuvo dentro del límite permitido (<3%), evidenciando que el sistema responde de forma consistente durante la ejecución de la prueba.
 
